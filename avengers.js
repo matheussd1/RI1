@@ -36,6 +36,8 @@ const homemDeFerro = {
     }
 };
 
+//Easter egg: Acquiesce - Oasis
+
 const thor = {
     nome: "Thor Odinson",
     codinome: "Deus do Trovão",
@@ -141,3 +143,4 @@ for (let i = 0; i < listaDePersonagens.length; i++) {
 
     }
 }
+
